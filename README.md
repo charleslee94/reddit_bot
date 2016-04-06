@@ -2,4 +2,4 @@ Simple python bot that crawls reddit.com/r/gamedeals everyday at 10 AM and retur
 
 
 <h1> Installation </h1>
-pip install -r requirements
+pip install -r requirements.txt
