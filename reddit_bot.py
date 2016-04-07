@@ -9,6 +9,9 @@ from datetime import datetime
 
 
 def find_game_sale():
+    """ Game sale finder. Uses steam wishlist to search through r/gamedeals and find any matches
+    for game sales.
+    """
     user_agent = ("Dark Souls 2 sale finder")
     r = praw.Reddit(user_agent = user_agent)
     subreddit = r.get_subreddit("gamedeals")
