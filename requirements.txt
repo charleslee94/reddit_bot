@@ -33,7 +33,7 @@ ipython==1.2.1
 livestreamer==1.12.2
 lockfile==0.8
 logilab-common==0.61.0
-lxml==3.3.3
+lxml==4.9.1
 nemo-emblems==0.0.1
 numpy==1.8.2
 oauthlib==0.6.1
