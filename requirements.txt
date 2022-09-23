@@ -43,7 +43,7 @@ pbr==1.8.1
 pexpect==3.1
 piston-mini-client==0.7.5
 praw==3.4.0
-protobuf==2.5.0
+protobuf==3.18.3
 psutil==1.2.1
 pyOpenSSL==0.13
 pycrypto==2.6.1
